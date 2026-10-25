@@ -1,0 +1,3058 @@
+{
+  "reportCreatedAt": "2026-10-25T02:41:26.573Z",
+  "sourceName": "TOS-en.original.srt",
+  "targetName": "TOS-CH.controlled-problems.srt",
+  "scope": "仅核对 SRT 结构与时间，不判断翻译准确性或音画同步。未匹配不等于漏译。",
+  "version": "0.1.0",
+  "options": {
+    "toleranceMs": 0
+  },
+  "source": {
+    "cues": [
+      {
+        "position": 1,
+        "id": "1",
+        "line": 2,
+        "startMs": 23000,
+        "endMs": 24500,
+        "text": "You're a jerk, Thom.",
+        "valid": true
+      },
+      {
+        "position": 2,
+        "id": "2",
+        "line": 6,
+        "startMs": 25000,
+        "endMs": 27000,
+        "text": "Look Celia, we have to follow our passions;",
+        "valid": true
+      },
+      {
+        "position": 3,
+        "id": "3",
+        "line": 10,
+        "startMs": 27000,
+        "endMs": 30500,
+        "text": "...you have your robotics, and I\njust want to be awesome in space.",
+        "valid": true
+      },
+      {
+        "position": 4,
+        "id": "4",
+        "line": 15,
+        "startMs": 30800,
+        "endMs": 34000,
+        "text": "Why don't you just admit that\nyou're freaked out by my robot hand?",
+        "valid": true
+      },
+      {
+        "position": 5,
+        "id": "5",
+        "line": 20,
+        "startMs": 34500,
+        "endMs": 36000,
+        "text": "I'm not freaked out by- it's...",
+        "valid": true
+      },
+      {
+        "position": 6,
+        "id": "6",
+        "line": 24,
+        "startMs": 37000,
+        "endMs": 38000,
+        "text": "...alright! Fine!",
+        "valid": true
+      },
+      {
+        "position": 7,
+        "id": "7",
+        "line": 28,
+        "startMs": 38000,
+        "endMs": 41000,
+        "text": "I'm freaked out! I have nightmares\nthat I'm being chased...",
+        "valid": true
+      },
+      {
+        "position": 8,
+        "id": "8",
+        "line": 33,
+        "startMs": 41000,
+        "endMs": 42000,
+        "text": "...by these giant robotic claws of death...",
+        "valid": true
+      },
+      {
+        "position": 9,
+        "id": "9",
+        "line": 37,
+        "startMs": 42200,
+        "endMs": 45000,
+        "text": "\"Fourty years later\"\nWhatever, Thom. We're done.",
+        "valid": true
+      },
+      {
+        "position": 10,
+        "id": "10",
+        "line": 43,
+        "startMs": 50000,
+        "endMs": 53500,
+        "text": "Robot's memory synced and locked!",
+        "valid": true
+      },
+      {
+        "position": 11,
+        "id": "11",
+        "line": 47,
+        "startMs": 61000,
+        "endMs": 63000,
+        "text": "This is pretty freaky.",
+        "valid": true
+      },
+      {
+        "position": 12,
+        "id": "12",
+        "line": 51,
+        "startMs": 117000,
+        "endMs": 119000,
+        "text": "Shouldn't you be down there?",
+        "valid": true
+      },
+      {
+        "position": 13,
+        "id": "13",
+        "line": 55,
+        "startMs": 131000,
+        "endMs": 133000,
+        "text": "I heard you guys talking last night.",
+        "valid": true
+      },
+      {
+        "position": 14,
+        "id": "14",
+        "line": 59,
+        "startMs": 136000,
+        "endMs": 138000,
+        "text": "It's not my fault, you know.",
+        "valid": true
+      },
+      {
+        "position": 15,
+        "id": "15",
+        "line": 63,
+        "startMs": 191000,
+        "endMs": 192000,
+        "text": "Are you ready?",
+        "valid": true
+      },
+      {
+        "position": 16,
+        "id": "16",
+        "line": 67,
+        "startMs": 193000,
+        "endMs": 195000,
+        "text": "Of course you're ready, you're a rockstar.",
+        "valid": true
+      },
+      {
+        "position": 17,
+        "id": "17",
+        "line": 71,
+        "startMs": 197000,
+        "endMs": 198000,
+        "text": "How's it looking, Barley?",
+        "valid": true
+      },
+      {
+        "position": 18,
+        "id": "18",
+        "line": 75,
+        "startMs": 199000,
+        "endMs": 201000,
+        "text": "We should have about ten minutes...",
+        "valid": true
+      },
+      {
+        "position": 19,
+        "id": "19",
+        "line": 79,
+        "startMs": 201500,
+        "endMs": 203000,
+        "text": "Well that's perfect.",
+        "valid": true
+      },
+      {
+        "position": 20,
+        "id": "20",
+        "line": 83,
+        "startMs": 203500,
+        "endMs": 206500,
+        "text": "We're on in one! All systems go!\nYeah you, go! ",
+        "valid": true
+      },
+      {
+        "position": 21,
+        "id": "21",
+        "line": 88,
+        "startMs": 208000,
+        "endMs": 212000,
+        "text": "Go! Move your asses! Go go go! ",
+        "valid": true
+      },
+      {
+        "position": 22,
+        "id": "22",
+        "line": 92,
+        "startMs": 213000,
+        "endMs": 217000,
+        "text": "I love it! Come on, go!",
+        "valid": true
+      },
+      {
+        "position": 23,
+        "id": "23",
+        "line": 96,
+        "startMs": 223000,
+        "endMs": 224000,
+        "text": "That's nice. ",
+        "valid": true
+      },
+      {
+        "position": 24,
+        "id": "24",
+        "line": 100,
+        "startMs": 224500,
+        "endMs": 225700,
+        "text": "Nothing to worry about.",
+        "valid": true
+      },
+      {
+        "position": 25,
+        "id": "25",
+        "line": 104,
+        "startMs": 226000,
+        "endMs": 227000,
+        "text": "Thom.",
+        "valid": true
+      },
+      {
+        "position": 26,
+        "id": "26",
+        "line": 108,
+        "startMs": 231000,
+        "endMs": 233000,
+        "text": "There she is.",
+        "valid": true
+      },
+      {
+        "position": 27,
+        "id": "27",
+        "line": 112,
+        "startMs": 233500,
+        "endMs": 234500,
+        "text": "Now.",
+        "valid": true
+      },
+      {
+        "position": 28,
+        "id": "28",
+        "line": 116,
+        "startMs": 235000,
+        "endMs": 236000,
+        "text": "You love her.",
+        "valid": true
+      },
+      {
+        "position": 29,
+        "id": "29",
+        "line": 120,
+        "startMs": 237000,
+        "endMs": 238500,
+        "text": "She is your passion! ",
+        "valid": true
+      },
+      {
+        "position": 30,
+        "id": "30",
+        "line": 124,
+        "startMs": 240000,
+        "endMs": 241000,
+        "text": "Be tender to her. ",
+        "valid": true
+      },
+      {
+        "position": 31,
+        "id": "31",
+        "line": 128,
+        "startMs": 241500,
+        "endMs": 244500,
+        "text": "Be honest! Eh- be tender.",
+        "valid": true
+      },
+      {
+        "position": 32,
+        "id": "32",
+        "line": 132,
+        "startMs": 245000,
+        "endMs": 248000,
+        "text": "Remind her what love is.",
+        "valid": true
+      },
+      {
+        "position": 33,
+        "id": "33",
+        "line": 136,
+        "startMs": 292000,
+        "endMs": 295000,
+        "text": "...and, action!",
+        "valid": true
+      },
+      {
+        "position": 34,
+        "id": "34",
+        "line": 140,
+        "startMs": 296500,
+        "endMs": 298000,
+        "text": "Memory overwrite in progress!",
+        "valid": true
+      },
+      {
+        "position": 35,
+        "id": "35",
+        "line": 144,
+        "startMs": 299000,
+        "endMs": 301000,
+        "text": "You're a jerk, Thom!",
+        "valid": true
+      },
+      {
+        "position": 36,
+        "id": "36",
+        "line": 148,
+        "startMs": 302500,
+        "endMs": 305000,
+        "text": "Ohp- Sorry! Sorry.",
+        "valid": true
+      },
+      {
+        "position": 37,
+        "id": "37",
+        "line": 152,
+        "startMs": 316000,
+        "endMs": 317000,
+        "text": "Look Celia.",
+        "valid": true
+      },
+      {
+        "position": 38,
+        "id": "38",
+        "line": 156,
+        "startMs": 318000,
+        "endMs": 320000,
+        "text": "We have to follow our passions. ",
+        "valid": true
+      },
+      {
+        "position": 39,
+        "id": "39",
+        "line": 160,
+        "startMs": 321000,
+        "endMs": 323000,
+        "text": "You have your robotics...",
+        "valid": true
+      },
+      {
+        "position": 40,
+        "id": "40",
+        "line": 164,
+        "startMs": 325000,
+        "endMs": 328000,
+        "text": "...and I just want to be awesome in space.",
+        "valid": true
+      },
+      {
+        "position": 41,
+        "id": "41",
+        "line": 168,
+        "startMs": 339000,
+        "endMs": 341000,
+        "text": "Okay, they're coming. Two minutes left!",
+        "valid": true
+      },
+      {
+        "position": 42,
+        "id": "42",
+        "line": 172,
+        "startMs": 343000,
+        "endMs": 344000,
+        "text": "Speed it up, Thom! ",
+        "valid": true
+      },
+      {
+        "position": 43,
+        "id": "43",
+        "line": 176,
+        "startMs": 345000,
+        "endMs": 346000,
+        "text": "Vivacissimo!",
+        "valid": true
+      },
+      {
+        "position": 44,
+        "id": "44",
+        "line": 180,
+        "startMs": 347000,
+        "endMs": 350000,
+        "text": "Why don't you just admit that you're \nfreaked out by my robot hand?",
+        "valid": true
+      },
+      {
+        "position": 45,
+        "id": "45",
+        "line": 185,
+        "startMs": 356000,
+        "endMs": 359000,
+        "text": "Listen Celia, I was young...",
+        "valid": true
+      },
+      {
+        "position": 46,
+        "id": "46",
+        "line": 189,
+        "startMs": 359500,
+        "endMs": 361000,
+        "text": "...and a dick. ",
+        "valid": true
+      },
+      {
+        "position": 47,
+        "id": "47",
+        "line": 193,
+        "startMs": 361000,
+        "endMs": 363000,
+        "text": "But that's no reason to\ndestroy the world.",
+        "valid": true
+      },
+      {
+        "position": 48,
+        "id": "48",
+        "line": 198,
+        "startMs": 365000,
+        "endMs": 366000,
+        "text": "Why does he do this?",
+        "valid": true
+      },
+      {
+        "position": 49,
+        "id": "49",
+        "line": 202,
+        "startMs": 366500,
+        "endMs": 368500,
+        "text": "We already tried that one!",
+        "valid": true
+      },
+      {
+        "position": 50,
+        "id": "50",
+        "line": 206,
+        "startMs": 371500,
+        "endMs": 372500,
+        "text": "Abort!",
+        "valid": true
+      },
+      {
+        "position": 51,
+        "id": "51",
+        "line": 210,
+        "startMs": 373000,
+        "endMs": 374000,
+        "text": "Cut!",
+        "valid": true
+      },
+      {
+        "position": 52,
+        "id": "52",
+        "line": 214,
+        "startMs": 374000,
+        "endMs": 375000,
+        "text": "Whoaaa!",
+        "valid": true
+      },
+      {
+        "position": 53,
+        "id": "53",
+        "line": 218,
+        "startMs": 379000,
+        "endMs": 380000,
+        "text": "Whoaaa!",
+        "valid": true
+      },
+      {
+        "position": 54,
+        "id": "54",
+        "line": 222,
+        "startMs": 381000,
+        "endMs": 383000,
+        "text": "Nooooo!",
+        "valid": true
+      },
+      {
+        "position": 55,
+        "id": "55",
+        "line": 226,
+        "startMs": 383000,
+        "endMs": 385000,
+        "text": "You broke my heart.",
+        "valid": true
+      },
+      {
+        "position": 56,
+        "id": "56",
+        "line": 230,
+        "startMs": 386000,
+        "endMs": 387000,
+        "text": "I know.",
+        "valid": true
+      },
+      {
+        "position": 57,
+        "id": "57",
+        "line": 234,
+        "startMs": 387000,
+        "endMs": 389000,
+        "text": "You forgot me on earth.",
+        "valid": true
+      },
+      {
+        "position": 58,
+        "id": "58",
+        "line": 238,
+        "startMs": 389000,
+        "endMs": 390000,
+        "text": "I know.",
+        "valid": true
+      },
+      {
+        "position": 59,
+        "id": "59",
+        "line": 242,
+        "startMs": 390500,
+        "endMs": 393000,
+        "text": "I should just crush you.",
+        "valid": true
+      },
+      {
+        "position": 60,
+        "id": "60",
+        "line": 246,
+        "startMs": 396000,
+        "endMs": 397000,
+        "text": "I'm-",
+        "valid": true
+      },
+      {
+        "position": 61,
+        "id": "61",
+        "line": 250,
+        "startMs": 407000,
+        "endMs": 408000,
+        "text": "I'm sorry.",
+        "valid": true
+      },
+      {
+        "position": 62,
+        "id": "62",
+        "line": 254,
+        "startMs": 410000,
+        "endMs": 411000,
+        "text": "Good ad-lib.",
+        "valid": true
+      },
+      {
+        "position": 63,
+        "id": "63",
+        "line": 258,
+        "startMs": 419000,
+        "endMs": 420500,
+        "text": "Not my fault!",
+        "valid": true
+      },
+      {
+        "position": 64,
+        "id": "64",
+        "line": 262,
+        "startMs": 422000,
+        "endMs": 423000,
+        "text": "This time.",
+        "valid": true
+      },
+      {
+        "position": 65,
+        "id": "65",
+        "line": 266,
+        "startMs": 428000,
+        "endMs": 429500,
+        "text": "Quiet on set!",
+        "valid": true
+      },
+      {
+        "position": 66,
+        "id": "66",
+        "line": 270,
+        "startMs": 430000,
+        "endMs": 431000,
+        "text": "We're out of time!",
+        "valid": true
+      },
+      {
+        "position": 67,
+        "id": "67",
+        "line": 274,
+        "startMs": 493000,
+        "endMs": 494000,
+        "text": "Come on!",
+        "valid": true
+      },
+      {
+        "position": 68,
+        "id": "68",
+        "line": 278,
+        "startMs": 502000,
+        "endMs": 504000,
+        "text": "RAAAAAAAAH!",
+        "valid": true
+      },
+      {
+        "position": 69,
+        "id": "69",
+        "line": 282,
+        "startMs": 504000,
+        "endMs": 505000,
+        "text": "Memory overwrite, 90%.",
+        "valid": true
+      },
+      {
+        "position": 70,
+        "id": "70",
+        "line": 286,
+        "startMs": 506000,
+        "endMs": 508000,
+        "text": "Captain! We have to abort!",
+        "valid": true
+      },
+      {
+        "position": 71,
+        "id": "71",
+        "line": 290,
+        "startMs": 518000,
+        "endMs": 520000,
+        "text": "The world's changed, Celia...",
+        "valid": true
+      },
+      {
+        "position": 72,
+        "id": "72",
+        "line": 294,
+        "startMs": 534000,
+        "endMs": 536000,
+        "text": "...maybe we can too.",
+        "valid": true
+      },
+      {
+        "position": 73,
+        "id": "73",
+        "line": 298,
+        "startMs": 538000,
+        "endMs": 539000,
+        "text": "Memory overwrite complete!",
+        "valid": true
+      },
+      {
+        "position": 74,
+        "id": "74",
+        "line": 302,
+        "startMs": 559000,
+        "endMs": 560000,
+        "text": "You know.",
+        "valid": true
+      },
+      {
+        "position": 75,
+        "id": "75",
+        "line": 306,
+        "startMs": 562000,
+        "endMs": 564000,
+        "text": "There's a lesson to be learned from this.",
+        "valid": true
+      },
+      {
+        "position": 76,
+        "id": "76",
+        "line": 310,
+        "startMs": 566000,
+        "endMs": 567000,
+        "text": "Could'a gone worse.",
+        "valid": true
+      }
+    ],
+    "issues": []
+  },
+  "target": {
+    "cues": [
+      {
+        "position": 1,
+        "id": "1",
+        "line": 2,
+        "startMs": 23000,
+        "endMs": 24500,
+        "text": "你太无耻了, Thom.",
+        "valid": true
+      },
+      {
+        "position": 2,
+        "id": "2",
+        "line": 6,
+        "startMs": 25000,
+        "endMs": 27000,
+        "text": "Celia, 我们必须跟着我们的感觉走;",
+        "valid": true
+      },
+      {
+        "position": 3,
+        "id": "3",
+        "line": 10,
+        "startMs": 27000,
+        "endMs": 30500,
+        "text": "...你是机器人, 而我则想要去太空中爽一下.",
+        "valid": true
+      },
+      {
+        "position": 4,
+        "id": "4",
+        "line": 14,
+        "startMs": 30800,
+        "endMs": 34000,
+        "text": "你为什么不承认你害怕我的机械手臂感？",
+        "valid": true
+      },
+      {
+        "position": 5,
+        "id": "5",
+        "line": 18,
+        "startMs": 34500,
+        "endMs": 36000,
+        "text": "我没有，只是...",
+        "valid": true
+      },
+      {
+        "position": 6,
+        "id": "6",
+        "line": 22,
+        "startMs": 37000,
+        "endMs": 38000,
+        "text": "好好好。",
+        "valid": true
+      },
+      {
+        "position": 7,
+        "id": "7",
+        "line": 26,
+        "startMs": 38000,
+        "endMs": 41000,
+        "text": "我怕的要命，我在恶梦里",
+        "valid": true
+      },
+      {
+        "position": 8,
+        "id": "8",
+        "line": 30,
+        "startMs": 41000,
+        "endMs": 42000,
+        "text": "...被这些巨型的夺命机械钳追杀...",
+        "valid": true
+      },
+      {
+        "position": 9,
+        "id": "9",
+        "line": 34,
+        "startMs": 42200,
+        "endMs": 45000,
+        "text": "随便你怎么说, Thom. 我们之间结束了.",
+        "valid": true
+      },
+      {
+        "position": 10,
+        "id": "10",
+        "line": 38,
+        "startMs": 50000,
+        "endMs": 53500,
+        "text": "机器人记忆同步完成，锁定",
+        "valid": true
+      },
+      {
+        "position": 11,
+        "id": "11",
+        "line": 42,
+        "startMs": 61000,
+        "endMs": 63000,
+        "text": "相当神奇啊.",
+        "valid": true
+      },
+      {
+        "position": 12,
+        "id": "12",
+        "line": 46,
+        "startMs": 117000,
+        "endMs": 119000,
+        "text": "你是不是该下去了吧?",
+        "valid": true
+      },
+      {
+        "position": 13,
+        "id": "13",
+        "line": 50,
+        "startMs": 131000,
+        "endMs": 133000,
+        "text": "我昨天听到你们这些家伙在说话.",
+        "valid": true
+      },
+      {
+        "position": 14,
+        "id": "14",
+        "line": 54,
+        "startMs": 136000,
+        "endMs": 138000,
+        "text": "你知道的，这不是我的错.",
+        "valid": true
+      },
+      {
+        "position": 15,
+        "id": "15",
+        "line": 58,
+        "startMs": 191000,
+        "endMs": 192000,
+        "text": "准备好了吗?",
+        "valid": true
+      },
+      {
+        "position": 16,
+        "id": "16",
+        "line": 62,
+        "startMs": 193000,
+        "endMs": 195000,
+        "text": "你显然准备好了，你是个摇滚明星嘛。",
+        "valid": true
+      },
+      {
+        "position": 17,
+        "id": "17",
+        "line": 66,
+        "startMs": 197000,
+        "endMs": 198000,
+        "text": "现在怎么样了， Barley?",
+        "valid": true
+      },
+      {
+        "position": 18,
+        "id": "18",
+        "line": 70,
+        "startMs": 199000,
+        "endMs": 201000,
+        "text": "我们应该还能有10分钟的时间...",
+        "valid": true
+      },
+      {
+        "position": 19,
+        "id": "19",
+        "line": 74,
+        "startMs": 201500,
+        "endMs": 203000,
+        "text": "好，太棒了.",
+        "valid": true
+      },
+      {
+        "position": 20,
+        "id": "21",
+        "line": 78,
+        "startMs": 208000,
+        "endMs": 212000,
+        "text": "快! 行动起来! 快快快!",
+        "valid": true
+      },
+      {
+        "position": 21,
+        "id": "22",
+        "line": 82,
+        "startMs": 213000,
+        "endMs": 217000,
+        "text": "我喜欢这个! 加油!",
+        "valid": true
+      },
+      {
+        "position": 22,
+        "id": "23",
+        "line": 86,
+        "startMs": 223000,
+        "endMs": 224000,
+        "text": "不错.",
+        "valid": true
+      },
+      {
+        "position": 23,
+        "id": "24",
+        "line": 90,
+        "startMs": 224500,
+        "endMs": 225700,
+        "text": "没什么好怕的，来！",
+        "valid": true
+      },
+      {
+        "position": 24,
+        "id": "25",
+        "line": 94,
+        "startMs": 226000,
+        "endMs": 227000,
+        "text": "Thom.",
+        "valid": true
+      },
+      {
+        "position": 25,
+        "id": "26",
+        "line": 98,
+        "startMs": 231000,
+        "endMs": 233000,
+        "text": "她在那.",
+        "valid": true
+      },
+      {
+        "position": 26,
+        "id": "27",
+        "line": 102,
+        "startMs": 233500,
+        "endMs": 234500,
+        "text": "就是现在。",
+        "valid": true
+      },
+      {
+        "position": 27,
+        "id": "28",
+        "line": 106,
+        "startMs": 235000,
+        "endMs": 236000,
+        "text": "你爱她的",
+        "valid": true
+      },
+      {
+        "position": 28,
+        "id": "29",
+        "line": 110,
+        "startMs": 237000,
+        "endMs": 238500,
+        "text": "她就是你的激情!",
+        "valid": true
+      },
+      {
+        "position": 29,
+        "id": "30",
+        "line": 114,
+        "startMs": 240000,
+        "endMs": 241000,
+        "text": "对她温柔点。",
+        "valid": true
+      },
+      {
+        "position": 30,
+        "id": "31",
+        "line": 118,
+        "startMs": 241500,
+        "endMs": 244500,
+        "text": "要诚恳! 要温柔.",
+        "valid": true
+      },
+      {
+        "position": 31,
+        "id": "32",
+        "line": 122,
+        "startMs": 245000,
+        "endMs": 248000,
+        "text": "让她回忆起什么是爱。去吧",
+        "valid": true
+      },
+      {
+        "position": 32,
+        "id": "33",
+        "line": 126,
+        "startMs": 292000,
+        "endMs": 295000,
+        "text": "...然后，开始!",
+        "valid": true
+      },
+      {
+        "position": 33,
+        "id": "34",
+        "line": 130,
+        "startMs": 296500,
+        "endMs": 298000,
+        "text": "记忆开始覆盖!",
+        "valid": true
+      },
+      {
+        "position": 34,
+        "id": "35",
+        "line": 134,
+        "startMs": 299000,
+        "endMs": 301000,
+        "text": "你太无耻了, Thom!",
+        "valid": true
+      },
+      {
+        "position": 35,
+        "id": "36",
+        "line": 138,
+        "startMs": 302500,
+        "endMs": 305000,
+        "text": "噢，不好意思，对不起",
+        "valid": true
+      },
+      {
+        "position": 36,
+        "id": "37",
+        "line": 142,
+        "startMs": 316000,
+        "endMs": 317000,
+        "text": "Celia.",
+        "valid": true
+      },
+      {
+        "position": 37,
+        "id": "38",
+        "line": 146,
+        "startMs": 318000,
+        "endMs": 320000,
+        "text": "我们必须跟着我们的感觉走.",
+        "valid": true
+      },
+      {
+        "position": 38,
+        "id": "39",
+        "line": 150,
+        "startMs": 321000,
+        "endMs": 323000,
+        "text": "你是机器人...",
+        "valid": true
+      },
+      {
+        "position": 39,
+        "id": "40",
+        "line": 154,
+        "startMs": 325500,
+        "endMs": 328500,
+        "text": "...而我则想要去太空中爽一下.",
+        "valid": true
+      },
+      {
+        "position": 40,
+        "id": "41",
+        "line": 158,
+        "startMs": 339000,
+        "endMs": 341000,
+        "text": "Okay, 他们来了. 还剩两分钟!",
+        "valid": true
+      },
+      {
+        "position": 41,
+        "id": "42",
+        "line": 162,
+        "startMs": 343000,
+        "endMs": 344000,
+        "text": "快点, Thom!",
+        "valid": true
+      },
+      {
+        "position": 42,
+        "id": "43",
+        "line": 166,
+        "startMs": 345000,
+        "endMs": 346000,
+        "text": "Vivacissimo!",
+        "valid": true
+      },
+      {
+        "position": 43,
+        "id": "44",
+        "line": 170,
+        "startMs": 347000,
+        "endMs": 350000,
+        "text": "你为什么不承认你害怕我的机器手臂？",
+        "valid": true
+      },
+      {
+        "position": 44,
+        "id": "45",
+        "line": 174,
+        "startMs": 356000,
+        "endMs": 359000,
+        "text": "听着 Celia, 我那时还年轻...",
+        "valid": true
+      },
+      {
+        "position": 45,
+        "id": "46",
+        "line": 178,
+        "startMs": 359500,
+        "endMs": 361000,
+        "text": "...一个什么也不懂的小孩.",
+        "valid": true
+      },
+      {
+        "position": 46,
+        "id": "47",
+        "line": 182,
+        "startMs": 361000,
+        "endMs": 363000,
+        "text": "但是这不是毁来这个世界的理由",
+        "valid": true
+      },
+      {
+        "position": 47,
+        "id": "48",
+        "line": 186,
+        "startMs": 365000,
+        "endMs": 366000,
+        "text": "他为啥要这么说?",
+        "valid": true
+      },
+      {
+        "position": 48,
+        "id": "49",
+        "line": 190,
+        "startMs": 366500,
+        "endMs": 368500,
+        "text": "我们已经试过这个情景了!",
+        "valid": true
+      },
+      {
+        "position": 49,
+        "id": "50",
+        "line": 194,
+        "startMs": 371500,
+        "endMs": 372500,
+        "text": "中止!",
+        "valid": true
+      },
+      {
+        "position": 50,
+        "id": "51",
+        "line": 198,
+        "startMs": 373000,
+        "endMs": 374000,
+        "text": "停!",
+        "valid": true
+      },
+      {
+        "position": 51,
+        "id": "52",
+        "line": 202,
+        "startMs": 374000,
+        "endMs": 375000,
+        "text": "噢啊啊啊!",
+        "valid": true
+      },
+      {
+        "position": 52,
+        "id": "53",
+        "line": 206,
+        "startMs": 379000,
+        "endMs": 380000,
+        "text": "噢啊啊啊!",
+        "valid": true
+      },
+      {
+        "position": 53,
+        "id": "54",
+        "line": 210,
+        "startMs": 381000,
+        "endMs": 383000,
+        "text": "不......!",
+        "valid": true
+      },
+      {
+        "position": 54,
+        "id": "55",
+        "line": 214,
+        "startMs": 383000,
+        "endMs": 385000,
+        "text": "你伤了我的心。",
+        "valid": true
+      },
+      {
+        "position": 55,
+        "id": "56",
+        "line": 218,
+        "startMs": 386000,
+        "endMs": 387000,
+        "text": "我知道。",
+        "valid": true
+      },
+      {
+        "position": 56,
+        "id": "57",
+        "line": 222,
+        "startMs": 387000,
+        "endMs": 389000,
+        "text": "你到底还是把我忘了",
+        "valid": true
+      },
+      {
+        "position": 57,
+        "id": "58",
+        "line": 226,
+        "startMs": 389000,
+        "endMs": 390000,
+        "text": "我知道。",
+        "valid": true
+      },
+      {
+        "position": 58,
+        "id": "59",
+        "line": 230,
+        "startMs": 390500,
+        "endMs": 393000,
+        "text": "我应该把你碎尸万段",
+        "valid": true
+      },
+      {
+        "position": 59,
+        "id": "60",
+        "line": 234,
+        "startMs": 396000,
+        "endMs": 397000,
+        "text": "",
+        "valid": true
+      },
+      {
+        "position": 60,
+        "id": "61",
+        "line": 238,
+        "startMs": 407000,
+        "endMs": 408000,
+        "text": "对不起.",
+        "valid": true
+      },
+      {
+        "position": 61,
+        "id": "62",
+        "line": 242,
+        "startMs": 410000,
+        "endMs": 411000,
+        "text": "说的不错。",
+        "valid": true
+      },
+      {
+        "position": 62,
+        "id": "63",
+        "line": 246,
+        "startMs": 419000,
+        "endMs": 420500,
+        "text": "这不是我的错!",
+        "valid": true
+      },
+      {
+        "position": 63,
+        "id": "64",
+        "line": 250,
+        "startMs": 422000,
+        "endMs": 423000,
+        "text": "这次。",
+        "valid": true
+      },
+      {
+        "position": 64,
+        "id": "65",
+        "line": 254,
+        "startMs": 428000,
+        "endMs": 429500,
+        "text": "上面安静点!",
+        "valid": true
+      },
+      {
+        "position": 65,
+        "id": "66",
+        "line": 258,
+        "startMs": 430000,
+        "endMs": 431000,
+        "text": "没时间了!",
+        "valid": true
+      },
+      {
+        "position": 66,
+        "id": "67",
+        "line": 262,
+        "startMs": 493000,
+        "endMs": 494000,
+        "text": "来啊!",
+        "valid": true
+      },
+      {
+        "position": 67,
+        "id": "68",
+        "line": 266,
+        "startMs": 502000,
+        "endMs": 504000,
+        "text": "RAAAAAAAAH!",
+        "valid": true
+      },
+      {
+        "position": 68,
+        "id": "69",
+        "line": 270,
+        "startMs": 504000,
+        "endMs": 505000,
+        "text": "记忆覆盖, 90%.",
+        "valid": true
+      },
+      {
+        "position": 69,
+        "id": "70",
+        "line": 274,
+        "startMs": 506000,
+        "endMs": 508000,
+        "text": "队长! 我们必须放弃!",
+        "valid": true
+      },
+      {
+        "position": 70,
+        "id": "71",
+        "line": 278,
+        "startMs": 518000,
+        "endMs": 520000,
+        "text": "这个世界已经变了, Celia...",
+        "valid": true
+      },
+      {
+        "position": 71,
+        "id": "72",
+        "line": 282,
+        "startMs": 534000,
+        "endMs": 536000,
+        "text": "...或许，我们也可以.",
+        "valid": true
+      },
+      {
+        "position": 72,
+        "id": "73",
+        "line": 286,
+        "startMs": 538000,
+        "endMs": 539000,
+        "text": "记忆覆盖完成!",
+        "valid": true
+      },
+      {
+        "position": 73,
+        "id": "74",
+        "line": 290,
+        "startMs": 559000,
+        "endMs": 560000,
+        "text": "你知道吗.",
+        "valid": true
+      },
+      {
+        "position": 74,
+        "id": "75",
+        "line": 294,
+        "startMs": 562000,
+        "endMs": 564000,
+        "text": "从中我们能学到很多.",
+        "valid": true
+      },
+      {
+        "position": 75,
+        "id": "76",
+        "line": 298,
+        "startMs": 566000,
+        "endMs": 567000,
+        "text": "也有可能变得很糟.",
+        "valid": true
+      }
+    ],
+    "issues": [
+      {
+        "code": "EMPTY_TEXT",
+        "level": "error",
+        "title": "译文：字幕正文为空",
+        "message": "时间段存在，但没有可显示的字幕正文。",
+        "sourceCue": {
+          "position": 60,
+          "id": "60",
+          "line": 246,
+          "startMs": 396000,
+          "endMs": 397000,
+          "text": "I'm-",
+          "valid": true
+        },
+        "targetCue": {
+          "position": 59,
+          "id": "60",
+          "line": 234,
+          "startMs": 396000,
+          "endMs": 397000,
+          "text": "",
+          "valid": true
+        },
+        "sourceLine": 246,
+        "targetLine": 234
+      }
+    ]
+  },
+  "summary": {
+    "sourceCues": 76,
+    "targetCues": 75,
+    "matched": 74,
+    "exactMatches": 74,
+    "toleranceMatches": 0,
+    "unmatchedSource": 2,
+    "unmatchedTarget": 1,
+    "ambiguousSource": 0,
+    "ambiguousTarget": 0,
+    "errors": 1,
+    "warnings": 3,
+    "infos": 0
+  },
+  "issues": [
+    {
+      "code": "EMPTY_TEXT",
+      "level": "error",
+      "title": "译文：字幕正文为空",
+      "message": "时间段存在，但没有可显示的字幕正文。",
+      "sourceCue": {
+        "position": 60,
+        "id": "60",
+        "line": 246,
+        "startMs": 396000,
+        "endMs": 397000,
+        "text": "I'm-",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 59,
+        "id": "60",
+        "line": 234,
+        "startMs": 396000,
+        "endMs": 397000,
+        "text": "",
+        "valid": true
+      },
+      "sourceLine": 246,
+      "targetLine": 234
+    },
+    {
+      "code": "UNMATCHED_SOURCE",
+      "level": "warning",
+      "title": "原文未找到对应时间段",
+      "message": "译文中未找到相同或容差内的唯一时间区间。可能漏段、合并、拆分或调整了时间，需要人工核对。",
+      "sourceCue": {
+        "position": 20,
+        "id": "20",
+        "line": 83,
+        "startMs": 203500,
+        "endMs": 206500,
+        "text": "We're on in one! All systems go!\nYeah you, go! ",
+        "valid": true
+      },
+      "targetCue": null,
+      "sourceLine": 83,
+      "targetLine": null
+    },
+    {
+      "code": "UNMATCHED_SOURCE",
+      "level": "warning",
+      "title": "原文未找到对应时间段",
+      "message": "译文中未找到相同或容差内的唯一时间区间。可能漏段、合并、拆分或调整了时间，需要人工核对。",
+      "sourceCue": {
+        "position": 40,
+        "id": "40",
+        "line": 164,
+        "startMs": 325000,
+        "endMs": 328000,
+        "text": "...and I just want to be awesome in space.",
+        "valid": true
+      },
+      "targetCue": null,
+      "sourceLine": 164,
+      "targetLine": null
+    },
+    {
+      "code": "UNMATCHED_TARGET",
+      "level": "warning",
+      "title": "译文有未对应的时间段",
+      "message": "原文中未找到相同或容差内的唯一时间区间。可能新增、合并、拆分或调整了时间，需要人工核对。",
+      "sourceCue": null,
+      "targetCue": {
+        "position": 39,
+        "id": "40",
+        "line": 154,
+        "startMs": 325500,
+        "endMs": 328500,
+        "text": "...而我则想要去太空中爽一下.",
+        "valid": true
+      },
+      "sourceLine": null,
+      "targetLine": 154
+    }
+  ],
+  "pairs": [
+    {
+      "sourceCue": {
+        "position": 1,
+        "id": "1",
+        "line": 2,
+        "startMs": 23000,
+        "endMs": 24500,
+        "text": "You're a jerk, Thom.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 1,
+        "id": "1",
+        "line": 2,
+        "startMs": 23000,
+        "endMs": 24500,
+        "text": "你太无耻了, Thom.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 2,
+        "id": "2",
+        "line": 6,
+        "startMs": 25000,
+        "endMs": 27000,
+        "text": "Look Celia, we have to follow our passions;",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 2,
+        "id": "2",
+        "line": 6,
+        "startMs": 25000,
+        "endMs": 27000,
+        "text": "Celia, 我们必须跟着我们的感觉走;",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 3,
+        "id": "3",
+        "line": 10,
+        "startMs": 27000,
+        "endMs": 30500,
+        "text": "...you have your robotics, and I\njust want to be awesome in space.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 3,
+        "id": "3",
+        "line": 10,
+        "startMs": 27000,
+        "endMs": 30500,
+        "text": "...你是机器人, 而我则想要去太空中爽一下.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 4,
+        "id": "4",
+        "line": 15,
+        "startMs": 30800,
+        "endMs": 34000,
+        "text": "Why don't you just admit that\nyou're freaked out by my robot hand?",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 4,
+        "id": "4",
+        "line": 14,
+        "startMs": 30800,
+        "endMs": 34000,
+        "text": "你为什么不承认你害怕我的机械手臂感？",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 5,
+        "id": "5",
+        "line": 20,
+        "startMs": 34500,
+        "endMs": 36000,
+        "text": "I'm not freaked out by- it's...",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 5,
+        "id": "5",
+        "line": 18,
+        "startMs": 34500,
+        "endMs": 36000,
+        "text": "我没有，只是...",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 6,
+        "id": "6",
+        "line": 24,
+        "startMs": 37000,
+        "endMs": 38000,
+        "text": "...alright! Fine!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 6,
+        "id": "6",
+        "line": 22,
+        "startMs": 37000,
+        "endMs": 38000,
+        "text": "好好好。",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 7,
+        "id": "7",
+        "line": 28,
+        "startMs": 38000,
+        "endMs": 41000,
+        "text": "I'm freaked out! I have nightmares\nthat I'm being chased...",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 7,
+        "id": "7",
+        "line": 26,
+        "startMs": 38000,
+        "endMs": 41000,
+        "text": "我怕的要命，我在恶梦里",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 8,
+        "id": "8",
+        "line": 33,
+        "startMs": 41000,
+        "endMs": 42000,
+        "text": "...by these giant robotic claws of death...",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 8,
+        "id": "8",
+        "line": 30,
+        "startMs": 41000,
+        "endMs": 42000,
+        "text": "...被这些巨型的夺命机械钳追杀...",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 9,
+        "id": "9",
+        "line": 37,
+        "startMs": 42200,
+        "endMs": 45000,
+        "text": "\"Fourty years later\"\nWhatever, Thom. We're done.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 9,
+        "id": "9",
+        "line": 34,
+        "startMs": 42200,
+        "endMs": 45000,
+        "text": "随便你怎么说, Thom. 我们之间结束了.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 10,
+        "id": "10",
+        "line": 43,
+        "startMs": 50000,
+        "endMs": 53500,
+        "text": "Robot's memory synced and locked!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 10,
+        "id": "10",
+        "line": 38,
+        "startMs": 50000,
+        "endMs": 53500,
+        "text": "机器人记忆同步完成，锁定",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 11,
+        "id": "11",
+        "line": 47,
+        "startMs": 61000,
+        "endMs": 63000,
+        "text": "This is pretty freaky.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 11,
+        "id": "11",
+        "line": 42,
+        "startMs": 61000,
+        "endMs": 63000,
+        "text": "相当神奇啊.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 12,
+        "id": "12",
+        "line": 51,
+        "startMs": 117000,
+        "endMs": 119000,
+        "text": "Shouldn't you be down there?",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 12,
+        "id": "12",
+        "line": 46,
+        "startMs": 117000,
+        "endMs": 119000,
+        "text": "你是不是该下去了吧?",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 13,
+        "id": "13",
+        "line": 55,
+        "startMs": 131000,
+        "endMs": 133000,
+        "text": "I heard you guys talking last night.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 13,
+        "id": "13",
+        "line": 50,
+        "startMs": 131000,
+        "endMs": 133000,
+        "text": "我昨天听到你们这些家伙在说话.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 14,
+        "id": "14",
+        "line": 59,
+        "startMs": 136000,
+        "endMs": 138000,
+        "text": "It's not my fault, you know.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 14,
+        "id": "14",
+        "line": 54,
+        "startMs": 136000,
+        "endMs": 138000,
+        "text": "你知道的，这不是我的错.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 15,
+        "id": "15",
+        "line": 63,
+        "startMs": 191000,
+        "endMs": 192000,
+        "text": "Are you ready?",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 15,
+        "id": "15",
+        "line": 58,
+        "startMs": 191000,
+        "endMs": 192000,
+        "text": "准备好了吗?",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 16,
+        "id": "16",
+        "line": 67,
+        "startMs": 193000,
+        "endMs": 195000,
+        "text": "Of course you're ready, you're a rockstar.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 16,
+        "id": "16",
+        "line": 62,
+        "startMs": 193000,
+        "endMs": 195000,
+        "text": "你显然准备好了，你是个摇滚明星嘛。",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 17,
+        "id": "17",
+        "line": 71,
+        "startMs": 197000,
+        "endMs": 198000,
+        "text": "How's it looking, Barley?",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 17,
+        "id": "17",
+        "line": 66,
+        "startMs": 197000,
+        "endMs": 198000,
+        "text": "现在怎么样了， Barley?",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 18,
+        "id": "18",
+        "line": 75,
+        "startMs": 199000,
+        "endMs": 201000,
+        "text": "We should have about ten minutes...",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 18,
+        "id": "18",
+        "line": 70,
+        "startMs": 199000,
+        "endMs": 201000,
+        "text": "我们应该还能有10分钟的时间...",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 19,
+        "id": "19",
+        "line": 79,
+        "startMs": 201500,
+        "endMs": 203000,
+        "text": "Well that's perfect.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 19,
+        "id": "19",
+        "line": 74,
+        "startMs": 201500,
+        "endMs": 203000,
+        "text": "好，太棒了.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 21,
+        "id": "21",
+        "line": 88,
+        "startMs": 208000,
+        "endMs": 212000,
+        "text": "Go! Move your asses! Go go go! ",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 20,
+        "id": "21",
+        "line": 78,
+        "startMs": 208000,
+        "endMs": 212000,
+        "text": "快! 行动起来! 快快快!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 22,
+        "id": "22",
+        "line": 92,
+        "startMs": 213000,
+        "endMs": 217000,
+        "text": "I love it! Come on, go!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 21,
+        "id": "22",
+        "line": 82,
+        "startMs": 213000,
+        "endMs": 217000,
+        "text": "我喜欢这个! 加油!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 23,
+        "id": "23",
+        "line": 96,
+        "startMs": 223000,
+        "endMs": 224000,
+        "text": "That's nice. ",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 22,
+        "id": "23",
+        "line": 86,
+        "startMs": 223000,
+        "endMs": 224000,
+        "text": "不错.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 24,
+        "id": "24",
+        "line": 100,
+        "startMs": 224500,
+        "endMs": 225700,
+        "text": "Nothing to worry about.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 23,
+        "id": "24",
+        "line": 90,
+        "startMs": 224500,
+        "endMs": 225700,
+        "text": "没什么好怕的，来！",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 25,
+        "id": "25",
+        "line": 104,
+        "startMs": 226000,
+        "endMs": 227000,
+        "text": "Thom.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 24,
+        "id": "25",
+        "line": 94,
+        "startMs": 226000,
+        "endMs": 227000,
+        "text": "Thom.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 26,
+        "id": "26",
+        "line": 108,
+        "startMs": 231000,
+        "endMs": 233000,
+        "text": "There she is.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 25,
+        "id": "26",
+        "line": 98,
+        "startMs": 231000,
+        "endMs": 233000,
+        "text": "她在那.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 27,
+        "id": "27",
+        "line": 112,
+        "startMs": 233500,
+        "endMs": 234500,
+        "text": "Now.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 26,
+        "id": "27",
+        "line": 102,
+        "startMs": 233500,
+        "endMs": 234500,
+        "text": "就是现在。",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 28,
+        "id": "28",
+        "line": 116,
+        "startMs": 235000,
+        "endMs": 236000,
+        "text": "You love her.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 27,
+        "id": "28",
+        "line": 106,
+        "startMs": 235000,
+        "endMs": 236000,
+        "text": "你爱她的",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 29,
+        "id": "29",
+        "line": 120,
+        "startMs": 237000,
+        "endMs": 238500,
+        "text": "She is your passion! ",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 28,
+        "id": "29",
+        "line": 110,
+        "startMs": 237000,
+        "endMs": 238500,
+        "text": "她就是你的激情!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 30,
+        "id": "30",
+        "line": 124,
+        "startMs": 240000,
+        "endMs": 241000,
+        "text": "Be tender to her. ",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 29,
+        "id": "30",
+        "line": 114,
+        "startMs": 240000,
+        "endMs": 241000,
+        "text": "对她温柔点。",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 31,
+        "id": "31",
+        "line": 128,
+        "startMs": 241500,
+        "endMs": 244500,
+        "text": "Be honest! Eh- be tender.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 30,
+        "id": "31",
+        "line": 118,
+        "startMs": 241500,
+        "endMs": 244500,
+        "text": "要诚恳! 要温柔.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 32,
+        "id": "32",
+        "line": 132,
+        "startMs": 245000,
+        "endMs": 248000,
+        "text": "Remind her what love is.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 31,
+        "id": "32",
+        "line": 122,
+        "startMs": 245000,
+        "endMs": 248000,
+        "text": "让她回忆起什么是爱。去吧",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 33,
+        "id": "33",
+        "line": 136,
+        "startMs": 292000,
+        "endMs": 295000,
+        "text": "...and, action!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 32,
+        "id": "33",
+        "line": 126,
+        "startMs": 292000,
+        "endMs": 295000,
+        "text": "...然后，开始!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 34,
+        "id": "34",
+        "line": 140,
+        "startMs": 296500,
+        "endMs": 298000,
+        "text": "Memory overwrite in progress!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 33,
+        "id": "34",
+        "line": 130,
+        "startMs": 296500,
+        "endMs": 298000,
+        "text": "记忆开始覆盖!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 35,
+        "id": "35",
+        "line": 144,
+        "startMs": 299000,
+        "endMs": 301000,
+        "text": "You're a jerk, Thom!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 34,
+        "id": "35",
+        "line": 134,
+        "startMs": 299000,
+        "endMs": 301000,
+        "text": "你太无耻了, Thom!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 36,
+        "id": "36",
+        "line": 148,
+        "startMs": 302500,
+        "endMs": 305000,
+        "text": "Ohp- Sorry! Sorry.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 35,
+        "id": "36",
+        "line": 138,
+        "startMs": 302500,
+        "endMs": 305000,
+        "text": "噢，不好意思，对不起",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 37,
+        "id": "37",
+        "line": 152,
+        "startMs": 316000,
+        "endMs": 317000,
+        "text": "Look Celia.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 36,
+        "id": "37",
+        "line": 142,
+        "startMs": 316000,
+        "endMs": 317000,
+        "text": "Celia.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 38,
+        "id": "38",
+        "line": 156,
+        "startMs": 318000,
+        "endMs": 320000,
+        "text": "We have to follow our passions. ",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 37,
+        "id": "38",
+        "line": 146,
+        "startMs": 318000,
+        "endMs": 320000,
+        "text": "我们必须跟着我们的感觉走.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 39,
+        "id": "39",
+        "line": 160,
+        "startMs": 321000,
+        "endMs": 323000,
+        "text": "You have your robotics...",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 38,
+        "id": "39",
+        "line": 150,
+        "startMs": 321000,
+        "endMs": 323000,
+        "text": "你是机器人...",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 41,
+        "id": "41",
+        "line": 168,
+        "startMs": 339000,
+        "endMs": 341000,
+        "text": "Okay, they're coming. Two minutes left!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 40,
+        "id": "41",
+        "line": 158,
+        "startMs": 339000,
+        "endMs": 341000,
+        "text": "Okay, 他们来了. 还剩两分钟!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 42,
+        "id": "42",
+        "line": 172,
+        "startMs": 343000,
+        "endMs": 344000,
+        "text": "Speed it up, Thom! ",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 41,
+        "id": "42",
+        "line": 162,
+        "startMs": 343000,
+        "endMs": 344000,
+        "text": "快点, Thom!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 43,
+        "id": "43",
+        "line": 176,
+        "startMs": 345000,
+        "endMs": 346000,
+        "text": "Vivacissimo!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 42,
+        "id": "43",
+        "line": 166,
+        "startMs": 345000,
+        "endMs": 346000,
+        "text": "Vivacissimo!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 44,
+        "id": "44",
+        "line": 180,
+        "startMs": 347000,
+        "endMs": 350000,
+        "text": "Why don't you just admit that you're \nfreaked out by my robot hand?",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 43,
+        "id": "44",
+        "line": 170,
+        "startMs": 347000,
+        "endMs": 350000,
+        "text": "你为什么不承认你害怕我的机器手臂？",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 45,
+        "id": "45",
+        "line": 185,
+        "startMs": 356000,
+        "endMs": 359000,
+        "text": "Listen Celia, I was young...",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 44,
+        "id": "45",
+        "line": 174,
+        "startMs": 356000,
+        "endMs": 359000,
+        "text": "听着 Celia, 我那时还年轻...",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 46,
+        "id": "46",
+        "line": 189,
+        "startMs": 359500,
+        "endMs": 361000,
+        "text": "...and a dick. ",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 45,
+        "id": "46",
+        "line": 178,
+        "startMs": 359500,
+        "endMs": 361000,
+        "text": "...一个什么也不懂的小孩.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 47,
+        "id": "47",
+        "line": 193,
+        "startMs": 361000,
+        "endMs": 363000,
+        "text": "But that's no reason to\ndestroy the world.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 46,
+        "id": "47",
+        "line": 182,
+        "startMs": 361000,
+        "endMs": 363000,
+        "text": "但是这不是毁来这个世界的理由",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 48,
+        "id": "48",
+        "line": 198,
+        "startMs": 365000,
+        "endMs": 366000,
+        "text": "Why does he do this?",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 47,
+        "id": "48",
+        "line": 186,
+        "startMs": 365000,
+        "endMs": 366000,
+        "text": "他为啥要这么说?",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 49,
+        "id": "49",
+        "line": 202,
+        "startMs": 366500,
+        "endMs": 368500,
+        "text": "We already tried that one!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 48,
+        "id": "49",
+        "line": 190,
+        "startMs": 366500,
+        "endMs": 368500,
+        "text": "我们已经试过这个情景了!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 50,
+        "id": "50",
+        "line": 206,
+        "startMs": 371500,
+        "endMs": 372500,
+        "text": "Abort!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 49,
+        "id": "50",
+        "line": 194,
+        "startMs": 371500,
+        "endMs": 372500,
+        "text": "中止!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 51,
+        "id": "51",
+        "line": 210,
+        "startMs": 373000,
+        "endMs": 374000,
+        "text": "Cut!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 50,
+        "id": "51",
+        "line": 198,
+        "startMs": 373000,
+        "endMs": 374000,
+        "text": "停!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 52,
+        "id": "52",
+        "line": 214,
+        "startMs": 374000,
+        "endMs": 375000,
+        "text": "Whoaaa!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 51,
+        "id": "52",
+        "line": 202,
+        "startMs": 374000,
+        "endMs": 375000,
+        "text": "噢啊啊啊!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 53,
+        "id": "53",
+        "line": 218,
+        "startMs": 379000,
+        "endMs": 380000,
+        "text": "Whoaaa!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 52,
+        "id": "53",
+        "line": 206,
+        "startMs": 379000,
+        "endMs": 380000,
+        "text": "噢啊啊啊!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 54,
+        "id": "54",
+        "line": 222,
+        "startMs": 381000,
+        "endMs": 383000,
+        "text": "Nooooo!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 53,
+        "id": "54",
+        "line": 210,
+        "startMs": 381000,
+        "endMs": 383000,
+        "text": "不......!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 55,
+        "id": "55",
+        "line": 226,
+        "startMs": 383000,
+        "endMs": 385000,
+        "text": "You broke my heart.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 54,
+        "id": "55",
+        "line": 214,
+        "startMs": 383000,
+        "endMs": 385000,
+        "text": "你伤了我的心。",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 56,
+        "id": "56",
+        "line": 230,
+        "startMs": 386000,
+        "endMs": 387000,
+        "text": "I know.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 55,
+        "id": "56",
+        "line": 218,
+        "startMs": 386000,
+        "endMs": 387000,
+        "text": "我知道。",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 57,
+        "id": "57",
+        "line": 234,
+        "startMs": 387000,
+        "endMs": 389000,
+        "text": "You forgot me on earth.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 56,
+        "id": "57",
+        "line": 222,
+        "startMs": 387000,
+        "endMs": 389000,
+        "text": "你到底还是把我忘了",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 58,
+        "id": "58",
+        "line": 238,
+        "startMs": 389000,
+        "endMs": 390000,
+        "text": "I know.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 57,
+        "id": "58",
+        "line": 226,
+        "startMs": 389000,
+        "endMs": 390000,
+        "text": "我知道。",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 59,
+        "id": "59",
+        "line": 242,
+        "startMs": 390500,
+        "endMs": 393000,
+        "text": "I should just crush you.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 58,
+        "id": "59",
+        "line": 230,
+        "startMs": 390500,
+        "endMs": 393000,
+        "text": "我应该把你碎尸万段",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 60,
+        "id": "60",
+        "line": 246,
+        "startMs": 396000,
+        "endMs": 397000,
+        "text": "I'm-",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 59,
+        "id": "60",
+        "line": 234,
+        "startMs": 396000,
+        "endMs": 397000,
+        "text": "",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 61,
+        "id": "61",
+        "line": 250,
+        "startMs": 407000,
+        "endMs": 408000,
+        "text": "I'm sorry.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 60,
+        "id": "61",
+        "line": 238,
+        "startMs": 407000,
+        "endMs": 408000,
+        "text": "对不起.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 62,
+        "id": "62",
+        "line": 254,
+        "startMs": 410000,
+        "endMs": 411000,
+        "text": "Good ad-lib.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 61,
+        "id": "62",
+        "line": 242,
+        "startMs": 410000,
+        "endMs": 411000,
+        "text": "说的不错。",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 63,
+        "id": "63",
+        "line": 258,
+        "startMs": 419000,
+        "endMs": 420500,
+        "text": "Not my fault!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 62,
+        "id": "63",
+        "line": 246,
+        "startMs": 419000,
+        "endMs": 420500,
+        "text": "这不是我的错!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 64,
+        "id": "64",
+        "line": 262,
+        "startMs": 422000,
+        "endMs": 423000,
+        "text": "This time.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 63,
+        "id": "64",
+        "line": 250,
+        "startMs": 422000,
+        "endMs": 423000,
+        "text": "这次。",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 65,
+        "id": "65",
+        "line": 266,
+        "startMs": 428000,
+        "endMs": 429500,
+        "text": "Quiet on set!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 64,
+        "id": "65",
+        "line": 254,
+        "startMs": 428000,
+        "endMs": 429500,
+        "text": "上面安静点!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 66,
+        "id": "66",
+        "line": 270,
+        "startMs": 430000,
+        "endMs": 431000,
+        "text": "We're out of time!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 65,
+        "id": "66",
+        "line": 258,
+        "startMs": 430000,
+        "endMs": 431000,
+        "text": "没时间了!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 67,
+        "id": "67",
+        "line": 274,
+        "startMs": 493000,
+        "endMs": 494000,
+        "text": "Come on!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 66,
+        "id": "67",
+        "line": 262,
+        "startMs": 493000,
+        "endMs": 494000,
+        "text": "来啊!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 68,
+        "id": "68",
+        "line": 278,
+        "startMs": 502000,
+        "endMs": 504000,
+        "text": "RAAAAAAAAH!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 67,
+        "id": "68",
+        "line": 266,
+        "startMs": 502000,
+        "endMs": 504000,
+        "text": "RAAAAAAAAH!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 69,
+        "id": "69",
+        "line": 282,
+        "startMs": 504000,
+        "endMs": 505000,
+        "text": "Memory overwrite, 90%.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 68,
+        "id": "69",
+        "line": 270,
+        "startMs": 504000,
+        "endMs": 505000,
+        "text": "记忆覆盖, 90%.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 70,
+        "id": "70",
+        "line": 286,
+        "startMs": 506000,
+        "endMs": 508000,
+        "text": "Captain! We have to abort!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 69,
+        "id": "70",
+        "line": 274,
+        "startMs": 506000,
+        "endMs": 508000,
+        "text": "队长! 我们必须放弃!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 71,
+        "id": "71",
+        "line": 290,
+        "startMs": 518000,
+        "endMs": 520000,
+        "text": "The world's changed, Celia...",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 70,
+        "id": "71",
+        "line": 278,
+        "startMs": 518000,
+        "endMs": 520000,
+        "text": "这个世界已经变了, Celia...",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 72,
+        "id": "72",
+        "line": 294,
+        "startMs": 534000,
+        "endMs": 536000,
+        "text": "...maybe we can too.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 71,
+        "id": "72",
+        "line": 282,
+        "startMs": 534000,
+        "endMs": 536000,
+        "text": "...或许，我们也可以.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 73,
+        "id": "73",
+        "line": 298,
+        "startMs": 538000,
+        "endMs": 539000,
+        "text": "Memory overwrite complete!",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 72,
+        "id": "73",
+        "line": 286,
+        "startMs": 538000,
+        "endMs": 539000,
+        "text": "记忆覆盖完成!",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 74,
+        "id": "74",
+        "line": 302,
+        "startMs": 559000,
+        "endMs": 560000,
+        "text": "You know.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 73,
+        "id": "74",
+        "line": 290,
+        "startMs": 559000,
+        "endMs": 560000,
+        "text": "你知道吗.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 75,
+        "id": "75",
+        "line": 306,
+        "startMs": 562000,
+        "endMs": 564000,
+        "text": "There's a lesson to be learned from this.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 74,
+        "id": "75",
+        "line": 294,
+        "startMs": 562000,
+        "endMs": 564000,
+        "text": "从中我们能学到很多.",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 76,
+        "id": "76",
+        "line": 310,
+        "startMs": 566000,
+        "endMs": 567000,
+        "text": "Could'a gone worse.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 75,
+        "id": "76",
+        "line": 298,
+        "startMs": 566000,
+        "endMs": 567000,
+        "text": "也有可能变得很糟.",
+        "valid": true
+      },
+      "kind": "exact"
+    }
+  ]
+}

@@ -1,0 +1,2053 @@
+{
+  "validatedOn": "2026-10-25",
+  "timezone": "Asia/Hong_Kong",
+  "hashes": {
+    "TOS-en.original.srt": "ce9578f6fe098a5821045a38884b229160f9e7ba27890448a92f5be330c6e6fe",
+    "TOS-CH.original.srt": "456152557f85f5874ec7c96c99a68ff05c325013972ca059b193f0d93f036d45"
+  },
+  "cases": [
+    {
+      "name": "unmodified_official_files_reject_bad_structure",
+      "passed": true,
+      "summary": {
+        "sourceCues": 76,
+        "targetCues": 76,
+        "matched": 75,
+        "exactMatches": 75,
+        "toleranceMatches": 0,
+        "unmatchedSource": 1,
+        "unmatchedTarget": 1,
+        "ambiguousSource": 0,
+        "ambiguousTarget": 0,
+        "errors": 231,
+        "warnings": 78,
+        "infos": 0
+      },
+      "issues": [
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "1",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "1",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "2",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "2",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "3",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "3",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "4",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "4",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "5",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "5",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "6",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "6",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "7",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "7",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "8",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "8",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": null,
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": null,
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "10",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "10",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "11",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "11",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "12",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "12",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "13",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "13",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "14",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "14",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "15",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "15",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "16",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "16",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "17",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "17",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "18",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "18",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "19",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "19",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "20",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "20",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "21",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "21",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "22",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "22",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "23",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "23",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "24",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "24",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "25",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "25",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "26",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "26",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "27",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "27",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "28",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "28",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "29",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "29",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "30",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "30",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "31",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "31",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "32",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "32",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "33",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "33",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "34",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "34",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "35",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "35",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "36",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "36",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "37",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "37",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "38",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "38",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "39",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "39",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "40",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "40",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "41",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "41",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "42",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "42",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "43",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "43",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "44",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "44",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "45",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "45",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "46",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "46",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "47",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "47",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "48",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "48",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "49",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "49",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "50",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "50",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "51",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "51",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "52",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "52",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "53",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "53",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "54",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "54",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "55",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "55",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "56",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "56",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "57",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "57",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "58",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "58",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "59",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "59",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "60",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "60",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "61",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "61",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "62",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "62",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "63",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "63",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "64",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "64",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "65",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "65",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "66",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "66",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "67",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "67",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "68",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "68",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "69",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "69",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "70",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "70",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "71",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "71",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "72",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "72",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "73",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "73",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "74",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "74",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "75",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "75",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "MISSING_ID",
+          "sourceId": "76",
+          "targetId": ""
+        },
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "76",
+          "targetId": ""
+        },
+        {
+          "code": "BAD_TIME_FORMAT",
+          "sourceId": null,
+          "targetId": null
+        },
+        {
+          "code": "UNMATCHED_SOURCE",
+          "sourceId": "9",
+          "targetId": null
+        },
+        {
+          "code": "UNMATCHED_TARGET",
+          "sourceId": null,
+          "targetId": ""
+        }
+      ]
+    },
+    {
+      "name": "normalized_translation_preserves_real_timing_differences",
+      "passed": true,
+      "summary": {
+        "sourceCues": 76,
+        "targetCues": 77,
+        "matched": 75,
+        "exactMatches": 75,
+        "toleranceMatches": 0,
+        "unmatchedSource": 1,
+        "unmatchedTarget": 2,
+        "ambiguousSource": 0,
+        "ambiguousTarget": 0,
+        "errors": 0,
+        "warnings": 4,
+        "infos": 0
+      },
+      "issues": [
+        {
+          "code": "ZERO_ID",
+          "sourceId": null,
+          "targetId": "0"
+        },
+        {
+          "code": "UNMATCHED_SOURCE",
+          "sourceId": "9",
+          "targetId": null
+        },
+        {
+          "code": "UNMATCHED_TARGET",
+          "sourceId": null,
+          "targetId": "0"
+        },
+        {
+          "code": "UNMATCHED_TARGET",
+          "sourceId": null,
+          "targetId": "9"
+        }
+      ]
+    },
+    {
+      "name": "aligned_bilingual_control",
+      "passed": true,
+      "summary": {
+        "sourceCues": 76,
+        "targetCues": 76,
+        "matched": 76,
+        "exactMatches": 76,
+        "toleranceMatches": 0,
+        "unmatchedSource": 0,
+        "unmatchedTarget": 0,
+        "ambiguousSource": 0,
+        "ambiguousTarget": 0,
+        "errors": 0,
+        "warnings": 0,
+        "infos": 0
+      },
+      "issues": []
+    },
+    {
+      "name": "delete_cue_20_then_renumber",
+      "passed": true,
+      "summary": {
+        "sourceCues": 76,
+        "targetCues": 75,
+        "matched": 75,
+        "exactMatches": 75,
+        "toleranceMatches": 0,
+        "unmatchedSource": 1,
+        "unmatchedTarget": 0,
+        "ambiguousSource": 0,
+        "ambiguousTarget": 0,
+        "errors": 0,
+        "warnings": 1,
+        "infos": 56
+      },
+      "issues": [
+        {
+          "code": "UNMATCHED_SOURCE",
+          "sourceId": "20",
+          "targetId": null
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "21",
+          "targetId": "20"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "22",
+          "targetId": "21"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "23",
+          "targetId": "22"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "24",
+          "targetId": "23"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "25",
+          "targetId": "24"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "26",
+          "targetId": "25"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "27",
+          "targetId": "26"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "28",
+          "targetId": "27"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "29",
+          "targetId": "28"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "30",
+          "targetId": "29"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "31",
+          "targetId": "30"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "32",
+          "targetId": "31"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "33",
+          "targetId": "32"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "34",
+          "targetId": "33"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "35",
+          "targetId": "34"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "36",
+          "targetId": "35"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "37",
+          "targetId": "36"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "38",
+          "targetId": "37"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "39",
+          "targetId": "38"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "40",
+          "targetId": "39"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "41",
+          "targetId": "40"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "42",
+          "targetId": "41"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "43",
+          "targetId": "42"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "44",
+          "targetId": "43"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "45",
+          "targetId": "44"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "46",
+          "targetId": "45"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "47",
+          "targetId": "46"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "48",
+          "targetId": "47"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "49",
+          "targetId": "48"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "50",
+          "targetId": "49"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "51",
+          "targetId": "50"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "52",
+          "targetId": "51"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "53",
+          "targetId": "52"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "54",
+          "targetId": "53"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "55",
+          "targetId": "54"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "56",
+          "targetId": "55"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "57",
+          "targetId": "56"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "58",
+          "targetId": "57"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "59",
+          "targetId": "58"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "60",
+          "targetId": "59"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "61",
+          "targetId": "60"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "62",
+          "targetId": "61"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "63",
+          "targetId": "62"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "64",
+          "targetId": "63"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "65",
+          "targetId": "64"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "66",
+          "targetId": "65"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "67",
+          "targetId": "66"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "68",
+          "targetId": "67"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "69",
+          "targetId": "68"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "70",
+          "targetId": "69"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "71",
+          "targetId": "70"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "72",
+          "targetId": "71"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "73",
+          "targetId": "72"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "74",
+          "targetId": "73"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "75",
+          "targetId": "74"
+        },
+        {
+          "code": "RENUMBERED",
+          "sourceId": "76",
+          "targetId": "75"
+        }
+      ]
+    },
+    {
+      "name": "shift_cue_40_by_500ms",
+      "passed": true,
+      "summary": {
+        "sourceCues": 76,
+        "targetCues": 76,
+        "matched": 75,
+        "exactMatches": 75,
+        "toleranceMatches": 0,
+        "unmatchedSource": 1,
+        "unmatchedTarget": 1,
+        "ambiguousSource": 0,
+        "ambiguousTarget": 0,
+        "errors": 0,
+        "warnings": 2,
+        "infos": 0
+      },
+      "issues": [
+        {
+          "code": "UNMATCHED_SOURCE",
+          "sourceId": "40",
+          "targetId": null
+        },
+        {
+          "code": "UNMATCHED_TARGET",
+          "sourceId": null,
+          "targetId": "40"
+        }
+      ]
+    },
+    {
+      "name": "empty_body_cue_60",
+      "passed": true,
+      "summary": {
+        "sourceCues": 76,
+        "targetCues": 76,
+        "matched": 76,
+        "exactMatches": 76,
+        "toleranceMatches": 0,
+        "unmatchedSource": 0,
+        "unmatchedTarget": 0,
+        "ambiguousSource": 0,
+        "ambiguousTarget": 0,
+        "errors": 1,
+        "warnings": 0,
+        "infos": 0
+      },
+      "issues": [
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "60",
+          "targetId": "60"
+        }
+      ]
+    },
+    {
+      "name": "combined_three_known_changes",
+      "passed": true,
+      "summary": {
+        "sourceCues": 76,
+        "targetCues": 75,
+        "matched": 74,
+        "exactMatches": 74,
+        "toleranceMatches": 0,
+        "unmatchedSource": 2,
+        "unmatchedTarget": 1,
+        "ambiguousSource": 0,
+        "ambiguousTarget": 0,
+        "errors": 1,
+        "warnings": 3,
+        "infos": 0
+      },
+      "issues": [
+        {
+          "code": "EMPTY_TEXT",
+          "sourceId": "60",
+          "targetId": "60"
+        },
+        {
+          "code": "UNMATCHED_SOURCE",
+          "sourceId": "20",
+          "targetId": null
+        },
+        {
+          "code": "UNMATCHED_SOURCE",
+          "sourceId": "40",
+          "targetId": null
+        },
+        {
+          "code": "UNMATCHED_TARGET",
+          "sourceId": null,
+          "targetId": "40"
+        }
+      ]
+    },
+    {
+      "name": "semantic_change_is_outside_scope",
+      "passed": true,
+      "summary": {
+        "sourceCues": 76,
+        "targetCues": 76,
+        "matched": 76,
+        "exactMatches": 76,
+        "toleranceMatches": 0,
+        "unmatchedSource": 0,
+        "unmatchedTarget": 0,
+        "ambiguousSource": 0,
+        "ambiguousTarget": 0,
+        "errors": 0,
+        "warnings": 0,
+        "infos": 0
+      },
+      "issues": []
+    }
+  ]
+}
