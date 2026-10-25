@@ -1,0 +1,250 @@
+{
+  "reportCreatedAt": "2026-10-24T12:44:56.675Z",
+  "sourceName": "示例原文.srt",
+  "targetName": "待核对译文.srt",
+  "scope": "仅核对 SRT 结构与时间，不判断翻译准确性或音画同步。未匹配不等于漏译。",
+  "version": "0.1.0",
+  "options": {
+    "toleranceMs": 0
+  },
+  "source": {
+    "cues": [
+      {
+        "position": 1,
+        "id": "1",
+        "line": 2,
+        "startMs": 1000,
+        "endMs": 3000,
+        "text": "Welcome to the workshop.",
+        "valid": true
+      },
+      {
+        "position": 2,
+        "id": "2",
+        "line": 6,
+        "startMs": 4000,
+        "endMs": 6500,
+        "text": "Today we will make a small lamp.",
+        "valid": true
+      },
+      {
+        "position": 3,
+        "id": "3",
+        "line": 10,
+        "startMs": 7000,
+        "endMs": 9000,
+        "text": "First, prepare your materials.",
+        "valid": true
+      },
+      {
+        "position": 4,
+        "id": "4",
+        "line": 14,
+        "startMs": 10000,
+        "endMs": 12000,
+        "text": "Keep the power switched off.",
+        "valid": true
+      }
+    ],
+    "issues": []
+  },
+  "target": {
+    "cues": [
+      {
+        "position": 1,
+        "id": "1",
+        "line": 2,
+        "startMs": 1000,
+        "endMs": 3000,
+        "text": "欢迎来到手作课堂。",
+        "valid": true
+      },
+      {
+        "position": 2,
+        "id": "3",
+        "line": 6,
+        "startMs": 7800,
+        "endMs": 9800,
+        "text": "首先，准备好材料。",
+        "valid": true
+      },
+      {
+        "position": 3,
+        "id": "4",
+        "line": 10,
+        "startMs": 10000,
+        "endMs": 12000,
+        "text": "",
+        "valid": true
+      }
+    ],
+    "issues": [
+      {
+        "code": "EMPTY_TEXT",
+        "level": "error",
+        "title": "译文：字幕正文为空",
+        "message": "时间段存在，但没有可显示的字幕正文。",
+        "sourceCue": {
+          "position": 4,
+          "id": "4",
+          "line": 14,
+          "startMs": 10000,
+          "endMs": 12000,
+          "text": "Keep the power switched off.",
+          "valid": true
+        },
+        "targetCue": {
+          "position": 3,
+          "id": "4",
+          "line": 10,
+          "startMs": 10000,
+          "endMs": 12000,
+          "text": "",
+          "valid": true
+        },
+        "sourceLine": 14,
+        "targetLine": 10
+      }
+    ]
+  },
+  "summary": {
+    "sourceCues": 4,
+    "targetCues": 3,
+    "matched": 2,
+    "exactMatches": 2,
+    "toleranceMatches": 0,
+    "unmatchedSource": 2,
+    "unmatchedTarget": 1,
+    "ambiguousSource": 0,
+    "ambiguousTarget": 0,
+    "errors": 1,
+    "warnings": 3,
+    "infos": 0
+  },
+  "issues": [
+    {
+      "code": "EMPTY_TEXT",
+      "level": "error",
+      "title": "译文：字幕正文为空",
+      "message": "时间段存在，但没有可显示的字幕正文。",
+      "sourceCue": {
+        "position": 4,
+        "id": "4",
+        "line": 14,
+        "startMs": 10000,
+        "endMs": 12000,
+        "text": "Keep the power switched off.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 3,
+        "id": "4",
+        "line": 10,
+        "startMs": 10000,
+        "endMs": 12000,
+        "text": "",
+        "valid": true
+      },
+      "sourceLine": 14,
+      "targetLine": 10
+    },
+    {
+      "code": "UNMATCHED_SOURCE",
+      "level": "warning",
+      "title": "原文未找到对应时间段",
+      "message": "译文中未找到相同或容差内的唯一时间区间。可能漏段、合并、拆分或调整了时间，需要人工核对。",
+      "sourceCue": {
+        "position": 2,
+        "id": "2",
+        "line": 6,
+        "startMs": 4000,
+        "endMs": 6500,
+        "text": "Today we will make a small lamp.",
+        "valid": true
+      },
+      "targetCue": null,
+      "sourceLine": 6,
+      "targetLine": null
+    },
+    {
+      "code": "UNMATCHED_SOURCE",
+      "level": "warning",
+      "title": "原文未找到对应时间段",
+      "message": "译文中未找到相同或容差内的唯一时间区间。可能漏段、合并、拆分或调整了时间，需要人工核对。",
+      "sourceCue": {
+        "position": 3,
+        "id": "3",
+        "line": 10,
+        "startMs": 7000,
+        "endMs": 9000,
+        "text": "First, prepare your materials.",
+        "valid": true
+      },
+      "targetCue": null,
+      "sourceLine": 10,
+      "targetLine": null
+    },
+    {
+      "code": "UNMATCHED_TARGET",
+      "level": "warning",
+      "title": "译文有未对应的时间段",
+      "message": "原文中未找到相同或容差内的唯一时间区间。可能新增、合并、拆分或调整了时间，需要人工核对。",
+      "sourceCue": null,
+      "targetCue": {
+        "position": 2,
+        "id": "3",
+        "line": 6,
+        "startMs": 7800,
+        "endMs": 9800,
+        "text": "首先，准备好材料。",
+        "valid": true
+      },
+      "sourceLine": null,
+      "targetLine": 6
+    }
+  ],
+  "pairs": [
+    {
+      "sourceCue": {
+        "position": 1,
+        "id": "1",
+        "line": 2,
+        "startMs": 1000,
+        "endMs": 3000,
+        "text": "Welcome to the workshop.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 1,
+        "id": "1",
+        "line": 2,
+        "startMs": 1000,
+        "endMs": 3000,
+        "text": "欢迎来到手作课堂。",
+        "valid": true
+      },
+      "kind": "exact"
+    },
+    {
+      "sourceCue": {
+        "position": 4,
+        "id": "4",
+        "line": 14,
+        "startMs": 10000,
+        "endMs": 12000,
+        "text": "Keep the power switched off.",
+        "valid": true
+      },
+      "targetCue": {
+        "position": 3,
+        "id": "4",
+        "line": 10,
+        "startMs": 10000,
+        "endMs": 12000,
+        "text": "",
+        "valid": true
+      },
+      "kind": "exact"
+    }
+  ]
+}
