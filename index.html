@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="在本地核对原文与译文 SRT 的时间段、结构和空白内容，导出清晰的核对报告。">
+  <title>字幕对照检查器</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="core.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#inputs">跳到字幕输入</a>
+  <header class="app-header">
+    <div class="brand"><span class="brand-mark" aria-hidden="true"><i></i><i></i></span><span>字幕对照检查器</span><span class="version">本地原型</span></div>
+    <span class="privacy"><span aria-hidden="true"></span>文件留在你的浏览器</span>
+  </header>
+
+  <main>
+    <section class="intro" aria-labelledby="page-title">
+      <div>
+        <p class="eyebrow">SRT 翻译交付 · 结构核对</p>
+        <h1 id="page-title">交付前，核对每一个时间段。</h1>
+        <p class="intro-copy">放入原字幕与译后字幕，找出未匹配的时间段、空白内容和格式问题。</p>
+        <p class="scope">仅核对结构与时间，不判断翻译准确性或音画同步。</p>
+      </div>
+      <div class="sample-actions" aria-label="试用示例">
+        <span>先看一份示例</span>
+        <div><button id="bad-example" class="button button-light" type="button">载入问题示例 <span aria-hidden="true">↗</span></button><button id="good-example" class="text-button" type="button">载入正常示例</button></div>
+      </div>
+    </section>
+
+    <section id="inputs" aria-label="字幕输入">
+      <div class="input-grid">
+        <article class="input-card" id="source-drop">
+          <div class="card-heading"><div class="heading-left"><span class="step">01</span><div><h2>原文字幕</h2><p>作为核对基准</p></div></div><label class="file-button" for="source-file">选择 SRT 文件</label><input class="file-input" type="file" id="source-file" accept=".srt,text/plain"></div>
+          <div class="file-meta"><span id="source-name">未选择文件，也可以直接粘贴</span><button id="source-clear" class="clear-button" type="button" aria-label="清空原文字幕">清空</button></div>
+          <label class="sr-only" for="source-text">原文 SRT 内容</label>
+          <textarea id="source-text" spellcheck="false" autocapitalize="off" placeholder="在这里粘贴原文 SRT，或拖入文件&#10;&#10;1&#10;00:00:01,000 --> 00:00:03,000&#10;Hello, welcome back."></textarea>
+          <div class="input-footer"><span>支持 UTF-8 / 带 BOM 的 UTF-16</span><span id="source-count">0 字符</span></div>
+          <p class="input-error" id="source-error" role="alert" hidden></p>
+        </article>
+
+        <article class="input-card" id="target-drop">
+          <div class="card-heading"><div class="heading-left"><span class="step">02</span><div><h2>译后字幕</h2><p>需要交付的版本</p></div></div><label class="file-button" for="target-file">选择 SRT 文件</label><input class="file-input" type="file" id="target-file" accept=".srt,text/plain"></div>
+          <div class="file-meta"><span id="target-name">未选择文件，也可以直接粘贴</span><button id="target-clear" class="clear-button" type="button" aria-label="清空译后字幕">清空</button></div>
+          <label class="sr-only" for="target-text">译后 SRT 内容</label>
+          <textarea id="target-text" spellcheck="false" autocapitalize="off" placeholder="在这里粘贴译后 SRT，或拖入文件&#10;&#10;1&#10;00:00:01,000 --> 00:00:03,000&#10;你好，欢迎回来。"></textarea>
+          <div class="input-footer"><span>每个文件最多 2 MiB / 10,000 条</span><span id="target-count">0 字符</span></div>
+          <p class="input-error" id="target-error" role="alert" hidden></p>
+        </article>
+      </div>
+
+      <div class="run-bar">
+        <div class="tolerance-control"><label for="tolerance">匹配容差</label><select id="tolerance"><option value="0">严格一致 · 0 ms</option><option value="50">50 ms</option><option value="100">100 ms</option><option value="250">250 ms</option></select><span>开始与结束时间均需在容差内</span></div>
+        <button id="analyze" class="button button-primary" type="button">开始核对 <span aria-hidden="true">→</span></button>
+      </div>
+      <p id="global-error" class="global-error" role="alert" hidden></p>
+    </section>
+
+    <section class="report-shell" id="report" aria-label="核对报告" aria-live="polite">
+      <div class="report-heading"><div><p class="eyebrow">核对报告</p><h2 id="report-title">准备好后，开始第一次核对</h2></div><div class="export-actions"><button class="button button-compact" id="export-text" type="button" disabled>导出文本</button><button class="button button-compact" id="export-json" type="button" disabled>导出 JSON</button></div></div>
+      <div id="stale-notice" class="stale-notice" role="status" hidden>输入已经变化。下方是上次的结果，请重新核对后再导出。</div>
+      <div id="report-empty" class="empty-state"><div class="empty-symbol" aria-hidden="true">≋</div><p>两份字幕，一次清楚的核对。</p><span>按时间区间建立对应关系。无法唯一匹配的段落会单独提示，不猜测对应。</span></div>
+      <div id="report-content" hidden>
+        <div class="summary-grid" id="summary-grid"></div>
+        <p class="report-explainer" id="report-explainer"></p>
+        <div class="report-nav"><div class="tabs" role="tablist" aria-label="报告视图"><button id="issues-tab" class="tab active" role="tab" aria-selected="true" aria-controls="issues-panel" type="button">问题清单 <span id="issues-count">0</span></button><button id="pairs-tab" class="tab" role="tab" aria-selected="false" aria-controls="pairs-panel" tabindex="-1" type="button">时间段对照 <span id="pairs-count">0</span></button></div><div id="filter-wrap"><label class="sr-only" for="issue-filter">筛选问题级别</label><select id="issue-filter"><option value="all">所有提示</option><option value="error">格式错误</option><option value="warning">需要核对</option><option value="info">信息提示</option></select></div></div>
+        <div id="issues-panel" role="tabpanel" aria-labelledby="issues-tab"><div id="issue-list"></div><button type="button" id="more-issues" class="button load-more" hidden>显示更多</button></div>
+        <div id="pairs-panel" role="tabpanel" aria-labelledby="pairs-tab" hidden><div id="pair-list"></div><button type="button" id="more-pairs" class="button load-more" hidden>显示更多</button></div>
+        <p class="report-footnote">“已匹配”仅表示时间区间符合条件。段落合并、刻意重叠或整体调时可能合理，请结合交付要求人工确认。</p>
+      </div>
+    </section>
+    <footer><span>本地处理 · 无账号 · 不会改写原文件</span><span>仅支持 SRT 格式</span></footer>
+  </main>
+</body>
+</html>
