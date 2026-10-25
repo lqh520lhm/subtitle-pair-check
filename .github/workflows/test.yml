@@ -1,0 +1,25 @@
+name: Verify subtitle checker
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check JavaScript syntax
+        run: |
+          node --check core.js
+          node --check app.js
+      - name: Core checks
+        run: node --test tests/core.test.js
+      - name: Licensed real subtitle fixtures
+        run: node verification/real-subtitles/verify.cjs
